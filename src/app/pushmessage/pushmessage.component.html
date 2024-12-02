@@ -1,0 +1,11 @@
+<ion-item>
+  <ion-label>
+    <h1>{{push.title}}</h1>
+    <small >{{push.datetime}}</small>
+    <p>{{push.message}}</p>
+  </ion-label>
+    
+    <ion-button (click)="remove.emit()" fill="clear">X</ion-button>
+
+
+</ion-item>

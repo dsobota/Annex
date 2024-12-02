@@ -1,0 +1,19 @@
+<div>
+
+    <ion-list>
+        <ion-item>
+            <ion-toggle #loc color="success" [checked]="this.locationCapable"  [enableOnOffLabels]="true"
+                (ionChange)="location()">Enable Location</ion-toggle>
+        </ion-item>
+        <ion-item *ngIf="this.locationCapable">
+            <ion-label>Get current Location</ion-label>
+            <ion-button (click)=onButtonClick()  >Go</ion-button>
+        </ion-item>
+        <ion-item *ngIf="this.locationCapable && lat !== 0.0 && lng !== 0.0">
+            <ion-label>Lat: {{lat}} | Lng: {{lng}}</ion-label>
+        </ion-item>
+    </ion-list>
+
+   
+
+</div>

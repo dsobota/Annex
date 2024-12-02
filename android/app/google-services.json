@@ -1,0 +1,677 @@
+{
+  "project_info": {
+    "project_number": "619832077835",
+    "project_id": "apparmor-6",
+    "storage_bucket": "apparmor-6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:de19a497febeb062e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.annex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:61cf09c210884392e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.atolboe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:12db00b11b9c0a78e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.belmont"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:72a6782e4fdd7873e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.bentley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:6c00796770eee3ece3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.cascacascascascascas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:ccc229be303cfcfce3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.cccd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:a6c8328f2c67185fe3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.columbiacountywi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:722e6e27434de454e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.concordhospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:65d8221c9c2d1e54e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.connorsstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:91cfd71e8b59a465e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.cravencc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:e8c701e8af3eb3afe3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.decr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:e0f28356a234fad1e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.hutchcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:ae9bf3b2f1b71648e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.oberlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:d7b9862b1de93902e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.saintmarys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:bd2004665ae4c06fe3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.santarosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:864f387d4dab5eafe3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.schoolcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:77dfebab10317d20e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.statedepartment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:fe3cf0937e7e453ee3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.taftcollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:0eb3b1f4534899f3e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.test.uutz1keqz7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:b23d76e47c5f4f19e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.ucr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:cfae16e7d3d54547e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.uwb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:c4dee616486c4a92e3a10e",
+        "android_client_info": {
+          "package_name": "com.cutcom.apparmor.wwu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619832077835:android:ab566eb3e1261249e3a10e",
+        "android_client_info": {
+          "package_name": "edu.umich.dpss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk3eOtBLV8HdQTAVrcJrx4ivfhU1UMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619832077835-43541p3sks2qr9tq6uu1ggm2j9l09igc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

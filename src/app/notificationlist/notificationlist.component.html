@@ -1,0 +1,6 @@
+<ion-list *ngFor="let p of parent.allPushes">
+  <ion-list-header>
+    <ion-label>Notifications</ion-label>
+  </ion-list-header>
+  <app-push-message (remove)="parent.remove(p)" [push]="p"></app-push-message>
+</ion-list>

@@ -1,0 +1,23 @@
+<div>
+
+    <ion-list >
+        <ion-item>
+            <ion-toggle color="success" [checked]="pushCapable" [enableOnOffLabels]="true"
+                (ionChange)="notify()" #enable >Enable Notifications</ion-toggle>
+        </ion-item>
+        <ion-list-header>
+            <ion-label>Channels</ion-label>
+        </ion-list-header>
+        <ion-item [disabled]="!pushCapable">
+            <ion-toggle color="success" #broadcast>Broadcast</ion-toggle>
+        </ion-item>
+        <ion-item [disabled]="!pushCapable">
+            <ion-toggle color="success" #toronto>Toronto</ion-toggle>
+        </ion-item>
+        <ion-item [disabled]="!pushCapable">
+            <ion-toggle color="success" #sydney>Sydney</ion-toggle>
+        </ion-item>
+    </ion-list>
+
+
+</div>
