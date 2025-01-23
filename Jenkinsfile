@@ -6,7 +6,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'test'
-                npx cap sync
+                ionic capacitor sync
             }
         }
     }
