@@ -1,6 +1,5 @@
 pipeline {
     agent {
-        any
         docker { image 'node' }
     }
     stages {
