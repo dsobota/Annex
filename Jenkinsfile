@@ -6,7 +6,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'test'
-                sh 'node --eval "console.log(process.platform,process.env.CI)"'
+                sh 'npm install'
             }
         }
     }
