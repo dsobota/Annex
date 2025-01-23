@@ -6,7 +6,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'test'
-                ionic capacitor sync
+                sh 'ionic capacitor sync'
             }
         }
     }
