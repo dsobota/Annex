@@ -1,12 +1,12 @@
 pipeline {
     agent {
-       docker { image 'node' }
+       docker { image 'luisbytes/capacitor' }
     }
     stages {
         stage('Test') {
             steps {
                 echo 'test'
-                sh 'npm install'
+                npx cap sync
             }
         }
     }
